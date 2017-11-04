@@ -1,0 +1,416 @@
+.header {
+	position: relative;
+
+	width: 100%;
+	height: 80px;
+	background-color: white;
+
+	border-bottom: 2px solid #C0C0C0;
+
+}
+
+#Namebox {
+
+	width: 20%;
+	height: 80px;
+	background-color: #20B2AA;
+	
+	position: absolute;
+	margin-left: 10%;
+
+	text-align: center;
+	line-height: 80px;
+
+
+	font-size: 24px;
+	color: white;
+
+}
+
+
+.nav{
+
+	width: 25%;
+	height: 70px;
+	background-color: white;
+
+	position: absolute;
+
+	bottom: 0px;
+	right: 0px;
+	margin-right: 10%;
+	margin-left: 1%;
+	margin-bottom: 0px;
+	margin-top: 1%; 
+
+	}
+
+#box1{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	border-right: #808080;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+	
+	border-right: 1px solid #C0C0C0;
+	
+}
+
+
+#box2{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	border-right: 1px solid #C0C0C0;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+
+}
+
+#box3{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+
+}
+
+span
+{
+	color: #C0C0C0;
+	font-family: cursive;
+	font-size: 20px;
+
+}
+
+#text1{
+	color:white;
+	font-family: "Times New Roman";
+	text-align: center;
+	line-height: 40px;
+	
+}
+
+.container{
+
+	position: relative;
+
+	top: 82px;
+
+	width: 100%;
+	height:735px;
+	background-image: url(http://www.uidownload.com/files/429/965/292/low-poly-polygonal-textures-screen-shot-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+	/*opacity: 0.80;*/
+	
+}
+
+.Aboutmesection{
+
+	width: 50%;
+	height: 710px;
+	background-color: white;
+
+	position: absolute;
+	margin-left: 10%;
+	margin-top: 1%;
+
+}
+
+#AboutmeTitlebox{
+
+	width:96%;
+	height: 50px;
+	background-color: white;
+
+
+	position: relative;
+	margin-top: 1%;
+	margin-right: auto;
+	margin-left: auto;
+
+	padding-left: 1%;
+	line-height: 50px;
+
+	font-size: 24px;
+	font-family: cursive;
+	font-style: italic;
+	color: #008B8B;
+	
+	
+	border-bottom:2px solid #C0C0C0;
+}
+
+
+#portfoliobox1 {
+
+	width: 200px;
+	height: 200px;
+	background-color: red;
+
+	position:relative;
+
+	top: 0px;
+	left: 0px;
+	margin-top: 20px;
+	margin-left: 15%;
+
+}
+
+#portfoliobox1Titlebar{
+
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+		
+}
+
+#portfoliobox2 {
+
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+
+	position:absolute;
+
+	top: 0px;
+	right:0px;
+	margin-top: 80px;
+	margin-right: 15%;
+
+}
+
+#portfoliobox2Titlebar{
+
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+		
+}
+
+#portfoliobox3 {
+
+	width: 200px;
+	height: 200px;
+	background-color: green;
+
+	position:absolute;
+
+	top: 280px;
+	left:0px;
+	margin-top: 10px;
+	margin-left: 15%;
+
+}
+
+#portfoliobox3Titlebar{
+
+
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+		
+}
+
+#portfoliobox4 {
+
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+
+	position:absolute;
+
+	top: 280px;
+	right:0px;
+	margin-top: 10px;
+	margin-right: 15%;
+
+}
+
+#portfoliobox4Titlebar {
+	
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+
+}
+
+#portfoliobox5 {
+
+	width: 200px;
+	height: 200px;
+	background-color: violet;
+
+	position:absolute;
+
+	top: 490px;
+	left:0px;
+	margin-top: 10px;
+	margin-left: 15%;
+
+
+}
+
+#portfoliobox5Titlebar{
+
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+
+}
+
+#portfoliobox6 {
+	width: 200px;
+	height: 200px;
+	background-color: cyan;
+
+	position:absolute;
+
+	top: 490px;
+	right:0px;
+	margin-top: 10px;
+	margin-right: 15%;
+}
+
+#portfoliobox6Titlebar{
+
+	width: 100%;
+	height: 40px;
+	background-color: black;
+
+	position:relative;
+	top: 140px;
+
+}
+
+.connectwithmesection{
+
+	width: 25%;
+	height: 200px;
+	background-color: white; 
+	
+	
+	position: absolute;
+	
+	top: 0px;
+	right: 0px;
+	margin-right: 10%;
+	margin-top: 5%;
+
+	
+}
+
+#iconNav {
+
+	width: 100%;
+	height: 100px;
+	background-color: white;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+	margin-top: 55px;
+}
+
+.icons{
+	
+	width:100px;
+	height: 100px;
+
+	
+	background-repeat: no-repeat;
+	background-size: contain;
+
+
+	position: relative;
+	top: 0px;
+	margin-left: 3%;
+
+	float: left;
+	text-align: center;
+}
+
+
+#stylizedimage {
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+	top: 0px;
+	
+
+	float: left;
+	text-align: center;
+
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+
+#ConnectwithmeTitlebox{
+
+	width: 96%;
+	height: 30px;
+	background-color: white;
+
+	position: relative;
+	margin-top: 1%;
+	margin-right: auto;
+	margin-left: auto;
+
+	padding-left: 1%;
+	line-height: 50px;
+
+	font-size: 18px;
+	font-family: times;
+	color: #008B8B;
+	text-align: center;
+	line-height: 30px;
+	letter-spacing: 6px;
+	
+	border-bottom:2px solid #C0C0C0;
+
+
+}

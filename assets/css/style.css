@@ -1,0 +1,312 @@
+.header {
+	position: relative;
+
+	width: 100%;
+	height: 80px;
+	background-color: white;
+
+	border-bottom: 2px solid #C0C0C0;
+
+}
+
+#Namebox {
+
+	width: 20%;
+	height: 80px;
+	background-color: #20B2AA;
+	
+	position: absolute;
+	margin-left: 10%;
+
+	text-align: center;
+	line-height: 80px;
+
+
+	font-size: 24px;
+	color: white;
+
+}
+
+
+.nav{
+
+	width: 25%;
+	height: 70px;
+	background-color: white;
+
+	position: absolute;
+
+	bottom: 0px;
+	right: 0px;
+	margin-right: 10%;
+	margin-left: 1%;
+	margin-bottom: 0px;
+	margin-top: 1%; 
+
+	}
+
+#box1{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	border-right: #808080;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+	
+	border-right: 1px solid #C0C0C0;
+	
+}
+
+
+#box2{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	border-right: 1px solid #C0C0C0;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+
+}
+
+#box3{
+	width:32%;
+	height: 20px;
+	background-color: white;
+
+	position: relative;
+	top: 25px;
+	margin-left: 1%;
+
+	float: left;
+	text-align: center;
+
+}
+
+span
+{
+	color: #C0C0C0;
+	font-family: cursive;
+	font-size: 20px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.container{
+
+	position:absolute;
+
+	top: 90px;
+
+	width: 100%;
+	height:600px;
+	background-image: url(http://www.uidownload.com/files/429/965/292/low-poly-polygonal-textures-screen-shot-1.jpg);
+	background-size: cover;
+	/*opacity: 0.80;*/
+	
+}
+
+
+.Aboutmesection{
+
+	width: 50%;
+	height: 450px;
+	background-color: white;
+
+	position: absolute;
+	margin-left: 10%;
+	margin-top: 5%;
+
+}
+
+
+.connectwithmesection{
+
+	width: 25%;
+	height: 200px;
+	background-color: white; 
+	
+	
+	position: absolute;
+	
+	top: 0px;
+	right: 0px;
+	margin-right: 10%;
+	margin-top: 5%;
+
+}
+
+#iconNav {
+
+	width: 100%;
+	height: 100px;
+	background-color: white;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+	margin-top: 55px;
+}
+
+.icons{
+	
+	width:100px;
+	height: 100px;
+
+	
+	background-repeat: no-repeat;
+	background-size: contain;
+
+
+	position: relative;
+	top: 0px;
+	margin-left: 3%;
+
+	float: left;
+	text-align: center;
+}
+
+
+#stylizedimage {
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+	top: 0px;
+	
+
+	float: left;
+	text-align: center;
+
+}
+
+
+
+
+#AboutmeTitlebox{
+
+	width:96%;
+	height: 50px;
+	background-color: white;
+
+
+	position: relative;
+	margin-top: 1%;
+	margin-right: auto;
+	margin-left: auto;
+
+	padding-left: 1%;
+	line-height: 50px;
+
+	font-size: 24px;
+	font-family: cursive;
+	font-style: italic;
+	color: #008B8B;
+	
+	
+	border-bottom:2px solid #C0C0C0;
+}
+
+#photobox{
+
+	width: 25%;
+	height: 25%;
+
+	top: 0px;
+	left: 0;
+	float: left;
+	position: relative;
+	
+	object-fit: scale-down;
+	margin-right: 8px;
+	
+	margin-top: 5px;
+	margin-bottom: 3px;
+}
+
+p {
+	justify-content: center;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+#textwrap{
+	width:100%;
+	height:400px;
+	background-color: white;
+	position: absolute;
+	top:60px;
+}
+
+
+#ConnectwithmeTitlebox{
+
+	width: 96%;
+	height: 30px;
+	background-color: white;
+
+	position: relative;
+	margin-top: 1%;
+	margin-right: auto;
+	margin-left: auto;
+
+	padding-left: 1%;
+	line-height: 50px;
+
+	font-size: 18px;
+	font-family: times;
+	color: #008B8B;
+	text-align: center;
+	line-height: 30px;
+	letter-spacing: 6px;
+	
+	border-bottom:2px solid #C0C0C0;
+
+
+}
+
+#footer {
+
+	background-color: #FFF5EE;
+
+	position: relative;
+	
+	top:100%;
+	
+
+	width: 100%;
+	height:138px;
+
+	border-top: 5px solid darkgrey;
+
+	text-align: center;
+	line-height: 138px;
+	font-size: 14px;
+	color: #008B8B;
+
+}
+
+
+
+
+
+
+
+
